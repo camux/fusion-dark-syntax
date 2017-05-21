@@ -1,0 +1,17 @@
+{
+  "name": "fusion-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A gourmet syntax theme inspired by crazy colors and cool style.",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax",
+    "japan"
+  ],
+  "repository": "https://github.com/pathtrk/ariake-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
